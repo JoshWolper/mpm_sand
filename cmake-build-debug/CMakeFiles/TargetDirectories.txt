@@ -1,3 +1,0 @@
-/Users/joshwolper/Desktop/mpm_sand/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/joshwolper/Desktop/mpm_sand/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/joshwolper/Desktop/mpm_sand/cmake-build-debug/CMakeFiles/MPM.dir
